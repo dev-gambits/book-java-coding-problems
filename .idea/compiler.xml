@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BONUS_1_ArrayToStreamAndBack" />
+        <module name="BONUS_1_ConvertYearMonthToDate" />
+        <module name="P141_JSONFileToObjectViaJackson" />
+        <module name="P263_JsonViaHttpClient" />
+        <module name="P52_BadDataInImmutable" />
+        <module name="BONUS_1_ChunkList" />
+        <module name="P57_JDK13_StatementBlocks" />
+        <module name="P116_CopyMap" />
+        <module name="P53_CloningObjects" />
+        <module name="P55_JDK13_SwitchExpression" />
+        <module name="BONUS_2_SpringAndJavaRecordsInjection" />
+        <module name="BONUS_3_ConvertListVtoMapKListV" />
+        <module name="BONUS_1_GetCurrentProjectRootDirectory" />
+        <module name="BONUS_1_SpringAndJavaRecords" />
+        <module name="P141_JSONFileToObjectViaJsonb" />
+        <module name="P182_MapStreamHelpers" />
+        <module name="P244_AssertingEqualityOfOptional" />
+        <module name="P250_QueryParametersBuilder" />
+        <module name="P141_JSONFileToObjectViaGson" />
+        <module name="BONUS_2_ConvertIterableToList" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="BONUS_1_SpringAndJavaRecords" options="-parameters --enable-preview" />
+      <module name="BONUS_2_SpringAndJavaRecordsInjection" options="-parameters --enable-preview" />
+      <module name="P250_QueryParametersBuilder" options="-parameters" />
+      <module name="P55_JDK13_SwitchExpression" options="--enable-preview" />
+      <module name="P57_JDK13_StatementBlocks" options="--enable-preview" />
+    </option>
+  </component>
+</project>

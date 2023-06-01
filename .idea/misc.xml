@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P53_CloningObjects/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P52_BadDataInImmutable/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P57_JDK13_StatementBlocks/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P55_JDK13_SwitchExpression/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/BONUS_1_SpringAndJavaRecords/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/BONUS_2_SpringAndJavaRecordsInjection/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter03/BONUS_1_ConvertYearMonthToDate/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/P116_CopyMap/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_1_ChunkList/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_2_ConvertIterableToList/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_3_ConvertListVtoMapKListV/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaGson/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaJsonb/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaJackson/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/BONUS_1_GetCurrentProjectRootDirectory/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter09/P182_MapStreamHelpers/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter09/BONUS_1_ArrayToStreamAndBack/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter12/P244_AssertingEqualityOfOptional/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter13/P263_JsonViaHttpClient/pom.xml" />
+        <option value="$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter13/P250_QueryParametersBuilder/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/BONUS_1_SpringAndJavaRecords/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/BONUS_1_SpringAndJavaRecords/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/BONUS_2_SpringAndJavaRecordsInjection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/BONUS_2_SpringAndJavaRecordsInjection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P52_BadDataInImmutable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P52_BadDataInImmutable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P53_CloningObjects/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P53_CloningObjects/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P55_JDK13_SwitchExpression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P55_JDK13_SwitchExpression/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P57_JDK13_StatementBlocks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter02/P57_JDK13_StatementBlocks/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter03/BONUS_1_ConvertYearMonthToDate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter03/BONUS_1_ConvertYearMonthToDate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_1_ChunkList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_1_ChunkList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_2_ConvertIterableToList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_2_ConvertIterableToList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_3_ConvertListVtoMapKListV/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/BONUS_3_ConvertListVtoMapKListV/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/P116_CopyMap/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter05/P116_CopyMap/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/BONUS_1_GetCurrentProjectRootDirectory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/BONUS_1_GetCurrentProjectRootDirectory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaGson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaGson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaJackson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaJackson/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaJsonb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter06/P141_JSONFileToObjectViaJsonb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter09/BONUS_1_ArrayToStreamAndBack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter09/BONUS_1_ArrayToStreamAndBack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter09/P182_MapStreamHelpers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter09/P182_MapStreamHelpers/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter12/P244_AssertingEqualityOfOptional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter12/P244_AssertingEqualityOfOptional/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter13/P250_QueryParametersBuilder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter13/P250_QueryParametersBuilder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter13/P263_JsonViaHttpClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/repo/Java-Coding-Problems/Chapter13/P263_JsonViaHttpClient/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
